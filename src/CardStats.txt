@@ -1,0 +1,9 @@
+
+BavarianIlluminati, null, null, true, true, 10, 10, -1, 9, null, 1, 1, 1, 1,
+BermudaTriangle, null, null, true, true, 8, 8, -1, 9, null, 1, 1, 1, 1,
+DiscordianSociety, null, null, true, true, 8, 8, -1, 8, null, 1, 1, 1, 1,
+GnomesofZurich, null, null, true, true, 7, 7, -1, 12, null, 1, 1, 1, 1,
+ServantsofCthulu, null, null, true, true, 9, 9, -1, 7, null, 1, 1, 1, 1,
+SocietyofAssassins, null, null, true, true, 8, 8, -1, 8, null, 1, 1, 1, 1,
+TheNetwork, null, null, true, true, 7, 7, -1, 9, null, 1, 1, 1, 1,
+TheUFOs, null, null, true, true, 6, 6, -1, 8, null, 1, 1, 1, 1,
